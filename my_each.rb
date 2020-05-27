@@ -8,4 +8,5 @@ def my_each(collection) # put argument(s) here
     end
   else
     "No block given!"
+  end
 end
